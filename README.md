@@ -35,9 +35,10 @@ Sample features in the dataset:
 - Feature scaling for algorithms that require it
 
 ### Visualizations
+- Bar Charts
 - Correlation heatmaps
-- Seaborn pairplots
-- Cluster scatterplots
+- Seaborn Boxplots
+  
 
 ### Models Implemented
 - *Regression*: Linear Regression, Random Forest, KNN
